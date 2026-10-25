@@ -1,0 +1,15 @@
+{
+  "name": "maelstrom-skills",
+  "description": "Maelstrom workflows for starting and integrating dynamic interfaces.",
+  "owner": {
+    "name": "Maelstrom"
+  },
+  "plugins": [
+    {
+      "name": "maelstrom",
+      "source": ".",
+      "description": "Build and integrate Maelstrom dynamic interfaces with guided coding workflows.",
+      "version": "0.2.0"
+    }
+  ]
+}

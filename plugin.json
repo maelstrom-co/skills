@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "maelstrom",
+  "version": "0.2.0",
+  "description": "Build and integrate Maelstrom dynamic interfaces with guided coding workflows.",
+  "author": {
+    "name": "Maelstrom",
+    "url": "https://maelstrom-ai.co"
+  },
+  "homepage": "https://docs.maelstrom-ai.co/agents/skills/",
+  "repository": "https://github.com/maelstrom-co/skills",
+  "license": "MIT",
+  "keywords": [
+    "maelstrom",
+    "react",
+    "agent-skills",
+    "dynamic-ui"
+  ],
+  "extensions": {
+    "com.openai": {
+      "onboardingSkill": "./skills/maelstrom/SKILL.md",
+      "requires_local_executor": true
+    }
+  }
+}

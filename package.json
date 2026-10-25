@@ -1,0 +1,16 @@
+{
+  "name": "@maelstrom-co/skills",
+  "version": "0.2.0",
+  "private": true,
+  "license": "MIT",
+  "description": "Build and integrate Maelstrom dynamic interfaces with guided coding workflows.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maelstrom-co/skills.git"
+  },
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  }
+}
