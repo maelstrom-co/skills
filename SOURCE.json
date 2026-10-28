@@ -1,8 +1,8 @@
 {
   "repository": "https://github.com/maelstrom-co/maelstrom",
-  "revision": "0fbbf430851e6ddc4ec53b50d209f633e2f0ce27",
+  "revision": "93a1cc253cb29c66d78289649ef26828a0dda234",
   "workingDirectory": "Maelstrom repository root",
   "updateCommand": "bun apps/docs/tools/skills/export-distributions.ts <empty-output-directory> <source-commit-sha>",
   "directory": "apps/docs/skills",
-  "pluginVersion": "0.2.1"
+  "pluginVersion": "0.2.2"
 }

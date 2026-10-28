@@ -9,7 +9,7 @@
       "name": "maelstrom",
       "source": ".",
       "description": "Build and integrate Maelstrom dynamic interfaces with guided coding workflows.",
-      "version": "0.2.1"
+      "version": "0.2.2"
     }
   ]
 }
